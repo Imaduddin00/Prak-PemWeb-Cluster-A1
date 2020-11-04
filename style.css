@@ -1,0 +1,16 @@
+#kolom2{
+    height: auto;
+    width: 584px;
+}
+#kolom1{
+    float: left;
+}
+.test{
+    color: red;
+}
+#footer{
+    width: 784px;
+    height: 100px;
+    display: block;
+    background-color: aqua;
+}
