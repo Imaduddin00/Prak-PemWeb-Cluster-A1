@@ -1,0 +1,53 @@
+.navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+}
+
+.navbar li {
+  float: left;
+  margin-right: 20px;
+}
+
+.navbar li a {
+  display: block;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  padding: 14px 14px;
+}
+
+.navbar li a:hover:not(.rumah) {
+  background-color: #111;
+}
+
+.navbar .rumah {
+  background-color: #4caf50;
+}
+
+.section #home {
+  background-image: url(gambar1.jpg);
+  width: 641px;
+  height: 641px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.section #home p h3 {
+  text-align: right;
+}
+
+.footer {
+  display: block;
+  text-align: center;
+  background-color: #333;
+  padding: 10px 10px;
+  color: white;
+  overflow: hidden;
+}
+/*# sourceMappingURL=style.css.map */

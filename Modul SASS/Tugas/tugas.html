@@ -1,0 +1,69 @@
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #header{
+            font-weight: bold;
+            position: relative;
+            color: #333;
+            animation: gerak 5s;
+            background-image: url(gambar3.jpg);
+            background-size: cover;
+            background-repeat: no-repeat;
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            font-variant: small-caps;
+            font-style: italic;
+        }
+        @keyframes gerak{
+            from{
+                right: 300px;
+            }
+            to{
+                right: 0px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <h1 id="header">My Personal Website</h1>
+    <div class="navbar">
+        <ul>
+            <li><a class="rumah" href="#home">Home</a></li>
+            <li><a href="#contact">Contact</a></li>
+            <li><a href="#gallery">Gallery</a></li>
+            <li style="float: right"><a href="#about">About</a></li>
+        </ul>
+    </div>
+    <div class="section">
+        <section id="home">
+            <h3>Welcome to My Website</h3>
+            <p>
+                Made By Muhammad Imaduddin Tauhid
+            </p>
+            <p>
+                A College Student from Institute of Technology Sumatera
+            </p>
+        </section>
+        <section id="contact">
+            <h3>This Is My Contact</h3>
+            <p>
+                wdigidaw@gmail.com
+            </p>
+        </section>
+        <section id="gallery">
+            <img src="gambar3.jpg" width="641px" height="641px" background-size="cover">
+        </section>
+        <section id="about">
+
+        </section>
+    </div>
+    <div class="footer">
+        <p>
+            2020&copy;Muhammad Imaduddin Tauhid 118140010
+        </p>
+    </div>
+</body>
+</html>
