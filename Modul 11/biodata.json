@@ -1,0 +1,24 @@
+{
+    "biodata": {
+        "nama": {
+            "awal": "Muhammad",
+            "akhir": "Tauhid"
+        },
+        "jenisKelamin": "Laki-laki",
+        "umur": "20",
+        "saudara": {
+            "kakak": "Faishal",
+            "adik": "Hunafa"
+        },
+        "orangTua": {
+            "ayah": "Dede Daman",
+            "ibu": "Erni Asiah"
+        },
+        "hobby": "Maen game",
+        "alamat": {
+            "desa": "Sukaresmi",
+            "kecamatan": "Cisaat",
+            "kabupaten": "Sukabumi"
+        }
+    }
+}

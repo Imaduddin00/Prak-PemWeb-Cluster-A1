@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<biodata>
+    <dataDiri>
+        <nama>
+            <awal>Muhammad</awal>
+            <akhir>Tauhid</akhir>
+        </nama>
+
+        <jenisKelamin>Laki-laki</jenisKelamin>
+
+        <umur>20 tahun</umur>
+
+        <saudara>
+            <kakak>Faishal</kakak>
+            <adik>hunafa</adik>
+        </saudara>
+
+        <orangTua>
+            <ayah>Dede Daman</ayah>
+            <ibu>Erni Asiah</ibu>
+        </orangTua>
+
+        <hobby>Maen game</hobby>
+
+        <alamat>
+            <desa>Sukaresmi</desa>
+            <kecamatan>Cisaat</kecamatan>
+            <kabupaten>Sukabumi</kabupaten>
+        </alamat>
+    </dataDiri>
+</biodata>
